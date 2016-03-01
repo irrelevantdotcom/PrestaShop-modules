@@ -5,8 +5,10 @@
 - Aleksander Palyan 
 - Alexander Wesselburg 
 - Alexandre Segura 
+- alexsimple 
 - alonbr 
 - Alon Braitstein 
+- Amala 
 - antoniofr 
 - apaqui 
 - arossetti 
@@ -20,15 +22,17 @@
 - cartman 
 - Ceboweb 
 - cedricfontaine 
+- cegoncalves 
 - CINS 
-- clément hollander 
 - Claude Traglia 
 - Claudio Mulas 
 - clement 
 - clement-hollander 
+- clément hollander 
 - cmouleyre 
 - Damien Metzger 
 - darko 
+- dave-lp 
 - David Kelly 
 - Delboy 
 - DevNet 
@@ -41,12 +45,15 @@
 - e.lito 
 - elmahdi 
 - emilien-puget 
+- esilvajrs2it 
 - ESPIAU Nicolas 
 - ethercreation 
+- Eyal 
 - fram 
+- Francesco Guardiani 
+- Francois Gaillard 
 - François Gaillard 
 - François-Marie de Jouvencel 
-- Francois Gaillard 
 - Giedrius Stan 
 - Gordon Coubrough 
 - GreenItaliaWeb.it 
@@ -65,7 +72,9 @@
 - jcriadop 
 - J. Danse 
 - jeromenadaud 
+- Jérôme Nadaud 
 - Jerome Nadaud 
+- Jérôme Nadaud 
 - Jonadabe 
 - Jonathan Wohl 
 - joseantgv 
@@ -78,6 +87,7 @@
 - khokha elmahdi 
 - Krystian Podemski 
 - Lesley Paone 
+- Livintha 
 - lsparer 
 - Ludovic 
 - Ludovic Verrecchia 
@@ -100,8 +110,9 @@
 - quadrateam 
 - Quadra Team 
 - Quetzacoalt91 
-- Rémi Gaillard 
 - RaphArbuz 
+- Rémi Gaillard 
+- remixaz 
 - rimas 
 - Rinku Kazeno 
 - Robert 
@@ -135,6 +146,8 @@
 - Xavier 
 - Yann 
 - Yann CYRILLE 
+- youlyn 
+- Youlyn Chinome 
 - Youness ZIOUANE 
 - ZiZuu 
 - zuzul 
